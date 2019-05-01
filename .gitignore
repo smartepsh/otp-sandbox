@@ -22,3 +22,6 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 otp_sandbox-*.tar
 
+
+# Ignore files for tests
+*.test
